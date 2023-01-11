@@ -1,0 +1,15 @@
+C:\Users\saffa\source\repos\Radyo\Radyo\bin\Debug\Radyo.exe.config
+C:\Users\saffa\source\repos\Radyo\Radyo\bin\Debug\Radyo.exe
+C:\Users\saffa\source\repos\Radyo\Radyo\bin\Debug\Radyo.pdb
+C:\Users\saffa\source\repos\Radyo\Radyo\bin\Debug\Interop.WMPLib.dll
+C:\Users\saffa\source\repos\Radyo\Radyo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\saffa\source\repos\Radyo\Radyo\obj\Debug\Radyo.csproj.AssemblyReference.cache
+C:\Users\saffa\source\repos\Radyo\Radyo\obj\Debug\Interop.WMPLib.dll
+C:\Users\saffa\source\repos\Radyo\Radyo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\saffa\source\repos\Radyo\Radyo\obj\Debug\Radyo.csproj.ResolveComReference.cache
+C:\Users\saffa\source\repos\Radyo\Radyo\obj\Debug\Radyo.Form1.resources
+C:\Users\saffa\source\repos\Radyo\Radyo\obj\Debug\Radyo.Properties.Resources.resources
+C:\Users\saffa\source\repos\Radyo\Radyo\obj\Debug\Radyo.csproj.GenerateResource.cache
+C:\Users\saffa\source\repos\Radyo\Radyo\obj\Debug\Radyo.csproj.CoreCompileInputs.cache
+C:\Users\saffa\source\repos\Radyo\Radyo\obj\Debug\Radyo.exe
+C:\Users\saffa\source\repos\Radyo\Radyo\obj\Debug\Radyo.pdb
