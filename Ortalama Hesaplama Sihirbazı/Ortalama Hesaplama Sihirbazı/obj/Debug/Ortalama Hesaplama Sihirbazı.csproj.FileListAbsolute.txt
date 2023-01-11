@@ -1,0 +1,10 @@
+C:\Users\saffa\source\repos\Ortalama Hesaplama Sihirbazı\Ortalama Hesaplama Sihirbazı\obj\Debug\Ortalama Hesaplama Sihirbazı.csproj.AssemblyReference.cache
+C:\Users\saffa\source\repos\Ortalama Hesaplama Sihirbazı\Ortalama Hesaplama Sihirbazı\obj\Debug\Ortalama_Hesaplama_Sihirbazı.Form1.resources
+C:\Users\saffa\source\repos\Ortalama Hesaplama Sihirbazı\Ortalama Hesaplama Sihirbazı\obj\Debug\Ortalama_Hesaplama_Sihirbazı.Properties.Resources.resources
+C:\Users\saffa\source\repos\Ortalama Hesaplama Sihirbazı\Ortalama Hesaplama Sihirbazı\obj\Debug\Ortalama Hesaplama Sihirbazı.csproj.GenerateResource.cache
+C:\Users\saffa\source\repos\Ortalama Hesaplama Sihirbazı\Ortalama Hesaplama Sihirbazı\obj\Debug\Ortalama Hesaplama Sihirbazı.csproj.CoreCompileInputs.cache
+C:\Users\saffa\source\repos\Ortalama Hesaplama Sihirbazı\Ortalama Hesaplama Sihirbazı\bin\Debug\Ortalama Hesaplama Sihirbazı.exe.config
+C:\Users\saffa\source\repos\Ortalama Hesaplama Sihirbazı\Ortalama Hesaplama Sihirbazı\bin\Debug\Ortalama Hesaplama Sihirbazı.exe
+C:\Users\saffa\source\repos\Ortalama Hesaplama Sihirbazı\Ortalama Hesaplama Sihirbazı\bin\Debug\Ortalama Hesaplama Sihirbazı.pdb
+C:\Users\saffa\source\repos\Ortalama Hesaplama Sihirbazı\Ortalama Hesaplama Sihirbazı\obj\Debug\Ortalama Hesaplama Sihirbazı.exe
+C:\Users\saffa\source\repos\Ortalama Hesaplama Sihirbazı\Ortalama Hesaplama Sihirbazı\obj\Debug\Ortalama Hesaplama Sihirbazı.pdb
