@@ -1,0 +1,15 @@
+C:\Users\saffa\source\repos\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\saffa\source\repos\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\saffa\source\repos\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\saffa\source\repos\Clock\Clock\obj\Debug\Clock.csproj.AssemblyReference.cache
+C:\Users\saffa\source\repos\Clock\Clock\obj\Debug\Clock.Form1.resources
+C:\Users\saffa\source\repos\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\saffa\source\repos\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\saffa\source\repos\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\saffa\source\repos\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\saffa\source\repos\Clock\Clock\obj\Debug\Clock.pdb
+C:\Users\saffa\source\repos\Clock\Clock\bin\Debug\Interop.WMPLib.dll
+C:\Users\saffa\source\repos\Clock\Clock\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\saffa\source\repos\Clock\Clock\obj\Debug\Interop.WMPLib.dll
+C:\Users\saffa\source\repos\Clock\Clock\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\saffa\source\repos\Clock\Clock\obj\Debug\Clock.csproj.ResolveComReference.cache
