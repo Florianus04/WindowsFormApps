@@ -1,0 +1,10 @@
+C:\Users\saffa\source\repos\AtYarisiOyunu\AtYarisiOyunu\bin\Debug\AtYarisiOyunu.exe.config
+C:\Users\saffa\source\repos\AtYarisiOyunu\AtYarisiOyunu\bin\Debug\AtYarisiOyunu.exe
+C:\Users\saffa\source\repos\AtYarisiOyunu\AtYarisiOyunu\bin\Debug\AtYarisiOyunu.pdb
+C:\Users\saffa\source\repos\AtYarisiOyunu\AtYarisiOyunu\obj\Debug\AtYarisiOyunu.csproj.AssemblyReference.cache
+C:\Users\saffa\source\repos\AtYarisiOyunu\AtYarisiOyunu\obj\Debug\AtYarisiOyunu.Form1.resources
+C:\Users\saffa\source\repos\AtYarisiOyunu\AtYarisiOyunu\obj\Debug\AtYarisiOyunu.Properties.Resources.resources
+C:\Users\saffa\source\repos\AtYarisiOyunu\AtYarisiOyunu\obj\Debug\AtYarisiOyunu.csproj.GenerateResource.cache
+C:\Users\saffa\source\repos\AtYarisiOyunu\AtYarisiOyunu\obj\Debug\AtYarisiOyunu.csproj.CoreCompileInputs.cache
+C:\Users\saffa\source\repos\AtYarisiOyunu\AtYarisiOyunu\obj\Debug\AtYarisiOyunu.exe
+C:\Users\saffa\source\repos\AtYarisiOyunu\AtYarisiOyunu\obj\Debug\AtYarisiOyunu.pdb
