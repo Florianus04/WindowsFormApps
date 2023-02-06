@@ -143,7 +143,7 @@ namespace Blackjack
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Başlangıçta her oyuncuya 2 kart verilir.\nAmaç 21'den büyük olmama şartı ile rakipten daha yüksek sayı elde etmektir.\nEğer 21'den büyük veya rakibinizden düşük bir sayıya ulaşırsanız kaybedersiniz.\nKartlarınız düşük ise fazladan 2 kart çekebilirsiniz\nYeterli sayıya ulaştığınızı düşünürseniz Sonraki Tur tuşu ile kartlarınızı rakibiniz ile karşılaştırın\nİlk önce 5 puana ulaşan kazanır\nİyi oyunlar.");
+            MessageBox.Show("Başlangıçta her oyuncuya 2 kart verilir.\nAmaç 21'den büyük olmama şartı ile rakipten daha yüksek sayı elde etmektir.\nEğer 21'den büyük veya rakibinizden düşük bir sayıya ulaşırsanız kaybedersiniz.\nKartlarınız düşük ise fazladan 2 kart çekebilirsiniz.\nYeterli sayıya ulaştığınızı düşünürseniz Sonraki Tur tuşu ile kartlarınızı rakibiniz ile karşılaştırın.\nİlk önce 5 puana ulaşan kazanır\nİyi oyunlar.");
         }
 
         void Temizle()
